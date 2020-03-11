@@ -4,4 +4,4 @@ Here we are implementing an image captioning network. The network will consist o
 
 ![alt text](https://github.com/henriklg/image-captioning-network/blob/master/example.png "Example of input/output of network")
 
-Tested and run with python 3.6 on ubuntu 18.04
+Tested and run with python 3.6 and PyTorch 1.0 on ubuntu 18.04
